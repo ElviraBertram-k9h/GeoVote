@@ -1,0 +1,16 @@
+# Environment files
+.env
+.env.*
+**/.env
+**/.env.*
+
+# OS / editor
+.DS_Store
+*.log
+
+# Build artifacts
+**/artifacts
+**/cache
+**/.next
+**/node_modules
+**/deployments
